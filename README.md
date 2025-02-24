@@ -50,13 +50,13 @@ You can click the Preview link to take a look at your changes.
             <b>
                 Skills 
             </b>
-                Object-Oriented Programming (OOP)
-                Data Structures & Algorithms (DSA)
-                Machine Learning, Natural Language Processing (NLP)
-                Neural Networks (Dense Layers, ReLU, Embedding Layers)
-                Data Visualization (Matplotlib, Seaborn)
-                Software Development & Problem Solving
-                CI/CD Basics (GitHub Actions, Jenkins)
+                Object-Oriented Programming (OOP)<br>
+                Data Structures & Algorithms (DSA)<br>
+                Machine Learning, Natural Language Processing (NLP)<br>
+                Neural Networks (Dense Layers, ReLU, Embedding Layers)<br>
+                Data Visualization (Matplotlib, Seaborn)<br>
+                Software Development & Problem Solving<br>
+                CI/CD Basics (GitHub Actions, Jenkins)<br>
         </p>
     <section class="links">
         <h2>Contact Me</h2>
