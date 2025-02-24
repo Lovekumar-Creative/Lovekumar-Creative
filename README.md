@@ -8,64 +8,7 @@ You can click the Preview link to take a look at your changes.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            padding: 20px;
-        }
-        .about, .links {
-            margin: 20px auto;
-            padding: 20px;
-            background: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-            max-width: 600px;
-        }
-        .links {
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            gap: 20px;
-        }
-        .links a {
-            text-decoration: none;
-        }
-        .links button {
-            background-color: #444;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 16px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 160px;
-        }
-        .links button img {
-            width: 18px;
-            height: 18px;
-            margin-right: 8px;
-        }
-        .links button:hover {
-            background-color: #222;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            padding: 10px;
-            margin-top: 20px;
-        }
-    </style>
+    <title>Love Kumar - CV</title>
 </head>
 <body>
     <header>
