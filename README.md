@@ -17,9 +17,17 @@ You can click the Preview link to take a look at your changes.
         <h2>Certification</h2>
         <a href="https://coursera.org/verify/professional-cert/LIRIZYB2AQ55" target="_blank">
             <button>IBM DevOps and Software Engineering Professional Certificate</button>
+        </a>
         <br>
         <a href="https://coursera.org/verify/specialization/9IZTA161B3D2" target="_blank">
             <button>Machine Learning Specialization by DeepLearning.Ai</button>
+        </a>
+    </section>
+    <section class="Technical skills">
+        <h2>Technical Skills</h2>
+        <p><b>Languages</b>C++, Python</p>
+        <p><b>Technologies/Frameworks: </b>Numpy, Pandas, Scikit-learn, Matplotlib, git, github</p>
+        <p><b>Skills</b>Data Structure and Algorithms, Problem Solving</p>
     <section class="links">
         <h2>Contact Me</h2>
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
