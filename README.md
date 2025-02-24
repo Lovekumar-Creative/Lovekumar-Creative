@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
     </section>
     <section class="Technical skills">
         <h2>Technical Skills</h2>
-        <p><b>Languages: </b>C++, Python</p>
+        <p><b>Languages: </b><br>C++, Python<br></p>
         <p><b>Technologies/Frameworks: </b>Numpy, Pandas, Scikit-learn, Matplotlib, git, github</p>
         <p><b>Skills: </b>Data Structure and Algorithms, Problem Solving</p>
     <section class="links">
