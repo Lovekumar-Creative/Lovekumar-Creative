@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
     </section>
     <section class="Technical skills">
         <h2>Technical Skills</h2>
-        <p><b>Languages</b>C++, Python</p>
+        <p><b>Languages: </b>C++, Python</p>
         <p><b>Technologies/Frameworks: </b>Numpy, Pandas, Scikit-learn, Matplotlib, git, github</p>
-        <p><b>Skills</b>Data Structure and Algorithms, Problem Solving</p>
+        <p><b>Skills: </b>Data Structure and Algorithms, Problem Solving</p>
     <section class="links">
         <h2>Contact Me</h2>
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
