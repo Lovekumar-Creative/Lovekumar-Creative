@@ -17,12 +17,15 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
             <button>LinkedIn</button>
         </a>
+        <br>
         <a href="https://leetcode.com/u/Lovekumar-Creative/" target="_blank">
             <button>LeetCode</button>
         </a>
+        <br>
         <a href="https://www.hackerrank.com/profile/lovechaudhary941" target="_blank">
             <button>HackerRank</button>
         </a> 
+        <br>
     </section>
     <footer>
         <p>Contact: <a href="mailto:Love.kumar13.82k@gmail.com">Love.kumar13.82k@gmail.com</a></p>
