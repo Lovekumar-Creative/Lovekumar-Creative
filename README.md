@@ -16,11 +16,22 @@ You can click the Preview link to take a look at your changes.
     </header>
     <section class="about">
         <h2>About Me</h2>
-        <p>I am a passionate software developer with expertise in Python, Java, and Machine Learning. I am experienced in building applications, working with data structures, and developing NLP models.</p>
+        <p>
+            "As a driven and detail-oriented BTech Computer Science graduate from Lovely Professional University, I am passionate about leveraging technology to solve real-world problems. With hands-on experience in programming languages like Python, Java, and C++, I thrive in dynamic environments where I can design innovative solutions, such as library management systems, customer segmentation projects, and sentiment analysis tools.
+
+I bring a strong foundation in data structures, algorithms, and machine learning, combined with practical expertise in libraries like Pandas and scikit-learn. Whether it’s developing efficient algorithms or conducting statistical analyses, I’m committed to producing impactful results with precision and creativity.
+
+Beyond my technical abilities, I am an enthusiastic learner who believes in continuous improvement. My adaptability, attention to detail, and collaborative mindset have allowed me to contribute effectively to projects, both individually and as part of a team.
+
+I am excited to grow in roles that align with my interests in software development, data science, and artificial intelligence, where I can continue to learn, innovate, and create meaningful impact."
+        </p>
     </section>
     <section class="links">
         <h2>Profiles</h2>
         <button onclick="window.open('https://www.linkedin.com/in/love-kumar-b30778258/', '_blank')">LinkedIn</button>
+        <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
+    <button>LinkedIn</button>
+</a>
         <button onclick="window.open('https://leetcode.com/u/Lovekumar-Creative/', '_blank')">LeetCode</button>
         <button onclick="window.open('https://www.hackerrank.com/profile/lovechaudhary941', '_blank')">HackerRank</button> 
     </section>
