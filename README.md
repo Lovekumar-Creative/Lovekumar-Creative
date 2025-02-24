@@ -13,7 +13,12 @@ You can click the Preview link to take a look at your changes.
             "As a driven and detail-oriented BTech Computer Science graduate from Lovely Professional University, I am passionate about leveraging technology to solve real-world problems. With hands-on experience in machine learning and software development, I am eager to contribute to innovative projects and make a meaningful impact."
         </p>
     </section>
+    <section class="Certification">
+        <h2>Certification</h2>
+        <a href="https://coursera.org/verify/specialization/9IZTA161B3D2" target="_blank">
+            <button>Machine Learning Specialization by Coursera</button>
     <section class="links">
+        <h2>Contact Me</h2>
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
             <button>LinkedIn</button>
         </a>
@@ -28,7 +33,7 @@ You can click the Preview link to take a look at your changes.
         <br>
     </section>
     <footer>
-        <p>Contact: <a href="mailto:Love.kumar13.82k@gmail.com">Love.kumar13.82k@gmail.com</a></p>
+        <p><a href="mailto:Love.kumar13.82k@gmail.com">Love.kumar13.82k@gmail.com</a></p>
     </footer>
 </body>
 </html>
