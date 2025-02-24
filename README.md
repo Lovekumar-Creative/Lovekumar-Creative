@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
             <button><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" > LinkedIn</button>
         </a>
         <a href="https://leetcode.com/u/Lovekumar-Creative/" target="_blank">
-            <button><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" > LeetCode</button>
+            <button><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" > </button>
         </a>
         <a href="https://www.hackerrank.com/profile/lovechaudhary941" target="_blank">
             <button><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"> HackerRank</button>
