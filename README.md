@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
     </section>
     <section class="links">
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
-            <button><img src="linkedin.png" alt="LinkedIn"></button>
+            <button>LinkedIn</button>
         </a>
         <a href="https://leetcode.com/u/Lovekumar-Creative/" target="_blank">
-            <button><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"></button>
+            <button>LeetCode</button>
         </a>
         <a href="https://www.hackerrank.com/profile/lovechaudhary941" target="_blank">
-            <button><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank"></button>
+            <button>HackerRank</button>
         </a> 
     </section>
     <footer>
