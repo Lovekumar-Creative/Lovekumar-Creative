@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
         <p>
             <b>
                 Skills 
-            </b>
+            </b><br>
                 Object-Oriented Programming (OOP)<br>
                 Data Structures & Algorithms (DSA)<br>
                 Machine Learning, Natural Language Processing (NLP)<br>
