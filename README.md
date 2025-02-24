@@ -28,12 +28,15 @@ I am excited to grow in roles that align with my interests in software developme
     </section>
     <section class="links">
         <h2>Profiles</h2>
-        <button onclick="window.open('https://www.linkedin.com/in/love-kumar-b30778258/', '_blank')">LinkedIn</button>
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
     <button>LinkedIn</button>
 </a>
-        <button onclick="window.open('https://leetcode.com/u/Lovekumar-Creative/', '_blank')">LeetCode</button>
-        <button onclick="window.open('https://www.hackerrank.com/profile/lovechaudhary941', '_blank')">HackerRank</button> 
+   <a href="https://leetcode.com/u/Lovekumar-Creative/" target="_blank">
+    <button>LinkedIn</button>
+</a>
+  <a href="https://www.hackerrank.com/profile/lovechaudhary941" target="_blank">
+    <button>LinkedIn</button>
+</a> 
     </section>
     <footer>
         <p>Contact: Love.kumar13.82k@gmail.com</p>
