@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <body>
     <header>
         <h1>Love Kumar</h1>
-        <p>Machine Learning Engineer | Software Development</p>
+        <p>AI/ML Engineer | Software Developer | DevOps Engineer</p>
     </header>
     <section class="about">
         <h2>About Me</h2>
