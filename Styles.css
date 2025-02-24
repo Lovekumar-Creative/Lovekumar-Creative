@@ -20,9 +20,8 @@ header {
 }
 .links {
     display: flex;
-    flex-direction: row;
     justify-content: center;
-    gap: 20px;
+    gap: 10px; /* Adjusted gap for smaller spacing */
 }
 .links a {
     text-decoration: none;
@@ -31,14 +30,11 @@ header {
     background-color: #444;
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 5px 10px; /* Reduced padding for smaller size */
     border-radius: 5px;
     cursor: pointer;
-    font-size: 16px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 160px;
+    font-size: 14px; /* Reduced font size for smaller text */
+    width: 100px; /* Reduced width */
 }
 .links button img {
     width: 16px;
