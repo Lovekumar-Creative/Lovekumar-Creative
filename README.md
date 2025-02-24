@@ -25,9 +25,39 @@ You can click the Preview link to take a look at your changes.
     </section>
     <section class="Technical skills">
         <h2>Technical Skills</h2>
-        <p><b>Languages: </b><br>C++, Python<br></p>
-        <p><b>Technologies/Frameworks: </b>Numpy, Pandas, Scikit-learn, Matplotlib, git, github</p>
-        <p><b>Skills: </b>Data Structure and Algorithms, Problem Solving</p>
+        <p>
+            <b>
+                Languages 
+            </b>
+            <br>
+                C++, Python
+            <br>
+                SQL
+            <br>
+        </p>
+        <p>
+            <b>
+                Technologies/Frameworks 
+            </b>
+            <br>
+                Scikit-Learn, Pandas, NumPy (for Machine Learning & Data Analysis)
+            <br>
+                TensorFlow, Keras (for Neural Networks & Deep Learning)
+            <br>
+                Git, GitHub, Docker
+        </p>
+        <p>
+            <b>
+                Skills 
+            </b>
+                Object-Oriented Programming (OOP)
+                Data Structures & Algorithms (DSA)
+                Machine Learning, Natural Language Processing (NLP)
+                Neural Networks (Dense Layers, ReLU, Embedding Layers)
+                Data Visualization (Matplotlib, Seaborn)
+                Software Development & Problem Solving
+                CI/CD Basics (GitHub Actions, Jenkins)
+        </p>
     <section class="links">
         <h2>Contact Me</h2>
         <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
