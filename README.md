@@ -22,6 +22,14 @@ You can click the Preview link to take a look at your changes.
         <a href="https://coursera.org/verify/specialization/9IZTA161B3D2" target="_blank">
             <button>Machine Learning Specialization by DeepLearning.Ai</button>
         </a>
+        <br>
+        <a href="https://lpucolab438.examly.io/certificate/U2FsdGVkX19D8cj%2F0l0UxQKseGeXaMtCBQHX5c0XqFA%3D" target="_blank">
+            <button>Data Structures and Algorithm using C++</button>
+        </a>
+        <br>
+        <a href="https://lpucolab438.examly.io/certificate/U2FsdGVkX1%2FGVHjPNSsOC4cCDA9YeJsqejVCbP24pNI%3D" target="_blank">
+            <button>Object Oriented Programming using C++</button>
+        </a>
     </section>
     <section class="Technical skills">
         <h2>Technical Skills</h2>
@@ -59,11 +67,7 @@ You can click the Preview link to take a look at your changes.
                 CI/CD Basics (GitHub Actions, Jenkins)<br>
         </p>
     <section class="links">
-        <h2>Contact Me</h2>
-        <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
-            <button>LinkedIn</button>
-        </a>
-        <br>
+        <h2>Achievement</h2>
         <a href="https://leetcode.com/u/Lovekumar-Creative/" target="_blank">
             <button>LeetCode</button>
         </a>
@@ -71,9 +75,12 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.hackerrank.com/profile/lovechaudhary941" target="_blank">
             <button>HackerRank</button>
         </a> 
-        <br>
     </section>
     <footer>
+        <h2>Contact Me</h2>
+        <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
+            <button>LinkedIn</button>
+        </a>
         <p><a href="mailto:Love.kumar13.82k@gmail.com">Love.kumar13.82k@gmail.com</a></p>
     </footer>
 </body>
