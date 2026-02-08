@@ -92,14 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lovekumar-Creative&hide_border=true" height="160"/>
-</p>
-
-
----
-
 ## 🤝 Let's Connect
 📩 Email: **Love.kumar13.82k@gmail.com**  
 🌐 LinkedIn: **Love Kumar**  
