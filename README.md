@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/love-kumar-b30778258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Love%20Kumar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:lovechaudhary941@gmail.com" target="_blank">
+  <a href="mailto:love.kumar13.82k@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://leetcode.com/u/Lovekumar-Creative/" target="_blank">
@@ -83,7 +83,7 @@
 ---
 
 ## 🏅 Certifications
-- Retrival Augumented Generation (RAG)
+- Retrieval Augmented Generation (RAG)
 - Natural Language Processing Specialisation  (DeepLearning.AI)
 - IBM DevOps and Software Engineering Professional Certificate  
 - Machine Learning Specialization (DeepLearning.AI)  
@@ -94,14 +94,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovekumar-Creative&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovekumar-Creative&layout=compact&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Lovekumar-Creative&hide_border=true" height="160"/>
 </p>
+
 
 ---
 
 ## 🤝 Let's Connect
-📩 Email: **lovechaudhary941@gmail.com**  
+📩 Email: **Love.kumar13.82k@gmail.com**  
 🌐 LinkedIn: **Love Kumar**  
 
 ⭐ If you like my work, consider giving a star to my repositories!
